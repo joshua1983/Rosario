@@ -1,0 +1,98 @@
+{
+    "gozosos":[
+        {
+            "primero": {
+                "titulo": "La Anunciacion",
+                "texto": "Dijo María: He aqui la sierva del Señor, hágase en mi según tu palabra. Y el Ángel se fue de ella."
+            },
+            "segundo" : {
+                "titulo": "La Visitación (de María a su prima Santa Isabel).",
+                "texto": "En aquellos dias, se puso María en camino y con prontitud fue a la montaña a una ciudad de Judá y entró en casa de Zacarias y saludó a Isabel."
+            },
+            "tercero" :{
+                "titulo": "El Nacimiento de Jesús",
+                "texto": "Y el Verbo se hizo carne y habitó entre nosotros y hemos visto su gloria, gloria como del Unigénito del Padre, lleno de gracias y de verdad"
+            },
+            "cuarto" : {
+                "titulo": "La Presentación",
+                "texto": "Cuando se cumplieron los dias en que debían purificarse, segun la Ley de Moisés, llevaron a Jesús a Jerusalén para presentarle al Señor."
+            },
+            "quinto": {
+                "titulo": "El niño Jesús perdido y hallado en el templo.",
+                "texto": "Al cabo de tres días, le hallaron en el Templo, sentado en medio de los doctores, oyendoles y preguntandoles."
+            }
+        }
+    ],
+    "luminosos": [
+        {
+            "primero": {
+                "titulo": "El bautismo de Jesús en el jordán",
+                "texto": "Jesús... fue bautizado por Juan en el Jordán. En cuanto salió del agua vio... que el Espíritu, en forma de paloma, bajaba a Él."
+            },
+            "segundo": {
+                "titulo": "La autorrevelación de Jesús.",
+                "texto": "En Caná, Jesús convierte el agua en vino a pedido de su Madre. 'Así dio Jesús comienzo a sus señales. Y manifestó su gloria y creyeron en Él sus discípulos'."
+            },
+            "tercero": {
+                "titulo": "Jesús anuncia el reino de Dios e invita a la conversión",
+                "texto": "Jesús decia: El tiempo se ha cumplido y el Reino de Dios esta cerca; conviértanse y crean en la Buena Nueva"
+            },
+            "cuarto": {
+                "titulo": "La transfiguración de Jesús",
+                "texto": "Mientras Jesús oraba, el aspecto de su rostro se mudó... Y vino una voz desde la nube que decía: este es mi Hijo, mi Elegido; escúchenlo."
+            },
+            "quinto": {
+                "titulo": "La institución de la Eucaristia.",
+                "texto": "Jesús les dijo:... si no comen la carne del Hijo del Hombre y no beben su sangre no tendran vida eterna entre ustedes."
+            }
+        }
+    ],
+    "dolorosos": [
+        {
+            "primero": {
+                "titulo": "La agonia de Jesús en el huerto",
+                "texto": "... no han podido velar conmigo una hora. Vela y ora para no caer en tentación: el espíritu esta fuerte, pero la carne es debíl."
+            },
+            "segundo": {
+                "titulo": "La flagelación de Nuestro señor Jesucristo.",
+                "texto": "Pilatos, queriendo dar satisfacción a la plebe, les dió a Barrabás; y a Jesús, despues de haberlo axotado, lo entregó para que lo crucificaran.."
+            },
+            "tercero": {
+                "titulo": "La coronación de espinas a Nuestro Señor Jesucristo",
+                "texto": "Y los soldados, tejiendo una corona de espinas, se la pusieron en la cabeza... y acercandose a Él le decían: Salve Rey de los Judíos..."
+            },
+            "cuarto": {
+                "titulo": "Jesús carga la cruz",
+                "texto": "Tomaron, pues, a Jesús que llevando su Cruz, salio al sitio llamado Calvario que en hebreo se dice Gólgota."
+            },
+            "quinto": {
+                "titulo": "La crucifixión de Nuestro Señor Jesucristo.",
+                "texto": "Cuando llegaron al lugar llamado Calvario, le crucificaron allí. Jesús decia: Padre, personales porque no saben lo que hacen."
+            }
+        }
+    ],
+    "gloriosos": [
+        {
+            "primero": {
+                "titulo": "La resurrección de Nuestro Señor Jesucristo",
+                "texto": "No se asusten. Buscan a Jesús el Nazareno, el crucificado; no esta aquí, ha resucitado."
+            },
+            "segundo": {
+                "titulo": "La ascención de Nuestro Señor Jesucristo.",
+                "texto": "El Señor Jesús, despúes de haber hablado con ellos, fue levantado el cielo y esta sentado a la derecha de Dios."
+            },
+            "tercero": {
+                "titulo": "La venida del Espíritu Santo",
+                "texto": "Aparecieron como divididas lenguas de fuego que se posaron sobre cada uno de ellos, quedando todos llenos del Espiritu Santo."
+            },
+            "cuarto": {
+                "titulo": "La asunción de la Virgen Maria",
+                "texto": "La hija del rey penetra con su hermosura, sus vestiduras están entretejidas de oro... es llevada al Rey."
+            },
+            "quinto": {
+                "titulo": "La coronación de la Virgen Maria",
+                "texto": "Apareció en el cielo una señal grande: una mujer vestida de sol, con una luna bajo sus pies y sobre su cabeza una corona de estrellas."
+            }
+        }
+    ]
+}
